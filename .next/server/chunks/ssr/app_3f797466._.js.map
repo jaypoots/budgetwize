@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 25, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/jacob/Desktop/budgetwize-main/app/%28dashboard%29/categories/page.tsx"],"sourcesContent":["const CategoriesPage = () => {\n    return (\n        <div>\n            Categories page\n        </div>\n    );\n}\n\nexport default CategoriesPage;"],"names":[],"mappings":";;;;;AAAA,MAAM,iBAAiB;IACnB,qBACI,8OAAC;kBAAI;;;;;;AAIb;uCAEe","debugId":null}}]
+}
